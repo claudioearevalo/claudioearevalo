@@ -1,2 +1,3 @@
 - 👋 Hello, I’m @claudioearevalo
-- 👀 I’m interested in swift develop
+- 👀 I’m interested in swift and c# develop
+- :alien: Also in GPT prompts
